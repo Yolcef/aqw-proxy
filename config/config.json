@@ -1,0 +1,20 @@
+{
+  "web": {
+    "port": 3000,
+    "enabled": true
+  },
+  "server": {
+    "name": "Moon",
+    "protocol": "aqw",
+    "port": 5588,
+    "debug": true,
+    "remote": {
+      "host": "104.20.87.21",
+      "port": 5588
+    }
+  },
+  "settings": {
+    "messageOfTheDay": "Welcome to Moon!",
+    "prefix": "!"
+  }
+}

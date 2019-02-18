@@ -1,0 +1,31 @@
+html, body {
+  background: #282828 !important;
+  overflow: auto !important;
+  height: 100vh;
+  -moz-osx-font-smoothing: grayscale; 
+  -webkit-font-smoothing: antialiased; 
+  text-rendering: optimizeLegibility;
+}
+
+.box {
+  background: #3c4356 !important;
+  color: #cfbafa !important;
+}
+
+.box p {
+  font-size: 13px;
+}
+
+.box a {
+  color: #bca8e4;
+  text-decoration: underline;
+}
+
+.box:hover a {
+  color: #cfbafa;
+  text-decoration: underline;
+}
+
+object {
+  border: 3px solid #383838;
+}
