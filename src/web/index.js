@@ -37,4 +37,4 @@ app.use('/', SiteRouter);
  * @param {string} port Server listen port
  * @returns {Promise<void>}
  */
-module.exports = port => new Promise(resolve => app.listen(port, () => resolve()));
+module.exports = new Promise(resolve => app.listen(process.env.PORT, () => resolve()));
