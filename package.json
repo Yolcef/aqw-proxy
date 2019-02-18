@@ -5,7 +5,7 @@
   "author": "Spirtik",
   "scripts": {
     "start": "node ./src/index.js",
-    "lint": "eslint --ignore-path .gitignore ."
+    "lint": "eslint --ignore-path .gitignore .",
     "start": "node ./src/index.js"
   },
   "dependencies": {
