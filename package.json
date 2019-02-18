@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node ./src/index.js",
     "lint": "eslint --ignore-path .gitignore ."
+    "start": "node ./src/index.js"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
