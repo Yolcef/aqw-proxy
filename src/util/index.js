@@ -14,10 +14,7 @@ class Util {
   static dumpAsciiLogo() {
     // eslint-disable-next-line no-console
     console.log(chalk.whiteBright([
-      '       __   __       ',
-      ' |\\/| /  \\ /  \\ |\\ | ',
-      ' |  | \\__/ \\__/ | \\| ',
-      '',
+    "AQWorlds Proxy",
     ].join('\n')), `\n\t ${chalk.whiteBright(`Version v${version}`)}\n`);
   }
 
