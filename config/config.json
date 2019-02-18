@@ -1,6 +1,6 @@
 {
   "web": {
-    "port": process.env.PORT,
+    "port": "process.env.PORT",
     "enabled": true
   },
   "server": {
