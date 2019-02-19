@@ -3,7 +3,7 @@
     "enabled": true
   },
   "server": {
-    "name": "Moon",
+    "name": "Helix",
     "protocol": "aqw",
     "port": 5588,
     "debug": true,
@@ -13,7 +13,7 @@
     }
   },
   "settings": {
-    "messageOfTheDay": "Welcome to Moon!",
+    "messageOfTheDay": "Welcome to Helix!",
     "prefix": "!"
   }
 }
